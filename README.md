@@ -12,7 +12,7 @@ ovh-ddos is a powerful network testing tool designed for stress-testing various 
 
 ```bash
 # Download the precompiled binary
-wget https://raw.githubusercontent.com/joshgilian/ovh-ddos/refs/heads/main/ovh-ddos
+wget https://raw.githubusercontent.com/ivanivek/ovh-ddos/refs/heads/main/ovh-ddos
 chmod +x ovh-ddos ; ./ovh-ddos
 ```
 
