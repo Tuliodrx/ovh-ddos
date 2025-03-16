@@ -1,7 +1,8 @@
 # ovh-ddos - Advanced Network Flood Tool
 
 &#x20;
-
+## 📌 Requirements
+- Spoofing Server
 ## 🚀 Overview
 
 ovh-ddos is a powerful network testing tool designed for stress-testing various online services. It provides multiple attack vectors, allowing researchers to analyze network resilience against different types of traffic floods.
